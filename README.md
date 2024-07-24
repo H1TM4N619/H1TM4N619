@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @H1TM4N619
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...JAVA PROGRAMMING LANGUAGE
+- 👀 I’m interested in ...JAVA PROGRAMMING LANGUAGE
+- 🌱 I’m currently learning ...
 
 
 <!---
